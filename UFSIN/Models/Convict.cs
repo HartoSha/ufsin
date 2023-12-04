@@ -7,5 +7,8 @@
         public string Photo { get; set; } = "user_picture.png";
 
         public string FullName { get; set; }
+
+        //31231
+        //123123123
     }
 }
