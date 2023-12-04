@@ -10,8 +10,8 @@
   },
   "profiles": {
     "http": {
-      "commandName": "Hellooooo",
-      "dotnetRunMessages": false,
+      "commandName": "Project",
+      "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5088",
